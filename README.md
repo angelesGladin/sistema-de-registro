@@ -5,3 +5,5 @@
  para ejecutar el sistema, debes poner: 
 
  '''npm insatall react'''
+
+Sistema de Registro 2
